@@ -1,0 +1,40 @@
+{
+ "packs": [
+  {
+   "id": "full",
+   "label": "Everything: medical, emergency, survival, how-to, repair and about 930,000 Wikipedia articles (8.1 GB, 1,238,605 articles)",
+   "gb": 8.1,
+   "articles": 1238605,
+   "version": "2026-10-30",
+   "install_bytes": 19963243583,
+   "parts": [
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-full.zip.000",
+     "bytes": 1900000000,
+     "sha256": "575f5a9bb19f3c3bac7d64b48e6bd64c6af5a0fd12c2a3b10a89fd6217ed0b0d"
+    },
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-full.zip.001",
+     "bytes": 1900000000,
+     "sha256": "beeeaff824a970b0025a1249ff8a83086e96c94c3fbe35503ee621031098eefa"
+    },
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-full.zip.002",
+     "bytes": 1900000000,
+     "sha256": "c7d861dd80625e83232381b053e431111181a3f86190519a73fea3ea0ab42cc0"
+    },
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-full.zip.003",
+     "bytes": 1900000000,
+     "sha256": "907e47e5e5234eca5fffd4edb1c3fdcf69c25c6f17b9732d57c0e8618a3dcd28"
+    },
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-full.zip.004",
+     "bytes": 517526452,
+     "sha256": "b0327527a4992fc7b07c526bff84e5c0908bb350cd65aad1843eb58e14973d08"
+    }
+   ]
+  }
+ ],
+ "signature": "2e2465a7000c0b7c89fe42e7818b6ac0e3fce6ac8fa0d3ba84180d1e30914614ee73874786cc03ce145c4ab7dc6617cb46fc0b242179ed8d8b46a9eee1caf900"
+}

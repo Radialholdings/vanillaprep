@@ -1,0 +1,39 @@
+{
+ "updates": {
+  "mac": {
+   "version": "0.5.2",
+   "notes": [
+    "Windows: fixed the app closing as soon as it opened. Every Windows copy of 0.5.1 had this problem.",
+    "Windows: the download is now one installer. Double-click it and the app installs, adds an icon to your desktop and Start menu, and opens. No unzipping, and you can uninstall it in Settings > Apps.",
+    "If the app can't start, it now says why instead of closing without a word, and keeps the details in its log.",
+    "After your first question, a new chat opens to a shorter welcome: the emergency note and example questions.",
+    "Check for updates no longer says to check your internet connection when there simply isn't an update.",
+    "While the library unpacks, setup shows how far along it is and the time left, instead of a bar that looked stuck.",
+    "Asking a question before setup finishes says plainly that the library is still installing and the answer has no sources yet.",
+    "The first answer's wait says \"Cpt. Vinny is getting ready\" instead of talking about memory and fans.",
+    "Menu \u203a Remove downloads deletes the library and AI models to free their space before you uninstall. Your own files, notes and settings stay.",
+    "Windows: uninstalling offers to delete the library and AI models too, and, only if you tick it, your own files and notes."
+   ],
+   "bytes": 16739191,
+   "url": "https://github.com/Radialholdings/vanillaprep/releases/download/app-0.5.2/CPTVINNYs-Survival-Guide-mac-0.5.2.csgupdate"
+  },
+  "windows": {
+   "version": "0.5.2",
+   "notes": [
+    "Windows: fixed the app closing as soon as it opened. Every Windows copy of 0.5.1 had this problem.",
+    "Windows: the download is now one installer. Double-click it and the app installs, adds an icon to your desktop and Start menu, and opens. No unzipping, and you can uninstall it in Settings > Apps.",
+    "If the app can't start, it now says why instead of closing without a word, and keeps the details in its log.",
+    "After your first question, a new chat opens to a shorter welcome: the emergency note and example questions.",
+    "Check for updates no longer says to check your internet connection when there simply isn't an update.",
+    "While the library unpacks, setup shows how far along it is and the time left, instead of a bar that looked stuck.",
+    "Asking a question before setup finishes says plainly that the library is still installing and the answer has no sources yet.",
+    "The first answer's wait says \"Cpt. Vinny is getting ready\" instead of talking about memory and fans.",
+    "Menu \u203a Remove downloads deletes the library and AI models to free their space before you uninstall. Your own files, notes and settings stay.",
+    "Windows: uninstalling offers to delete the library and AI models too, and, only if you tick it, your own files and notes."
+   ],
+   "bytes": 14879382,
+   "url": "https://github.com/Radialholdings/vanillaprep/releases/download/app-0.5.2/CPTVINNYs-Survival-Guide-windows-0.5.2.csgupdate"
+  }
+ },
+ "signature": "8eb45bf03d60aa6e858fb62ff528dcb21a30f8e97e35a49f5c8122aba07a8e03e30626b89a055600fa8b8e5281003c5df0a59c8befc7fa72d4a594f458876e0d"
+}

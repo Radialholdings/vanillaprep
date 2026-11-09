@@ -34,7 +34,22 @@
      "sha256": "b0327527a4992fc7b07c526bff84e5c0908bb350cd65aad1843eb58e14973d08"
     }
    ]
+  },
+  {
+   "id": "lite",
+   "label": "Essentials: medical, emergency, survival, how-to and repair (0.9 GB, 309,015 articles)",
+   "gb": 0.9,
+   "articles": 309015,
+   "version": "2026-10-30",
+   "install_bytes": 3045576884,
+   "parts": [
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-2026-10-30/library-lite.zip.000",
+     "bytes": 889348346,
+     "sha256": "c6b06f09af8f5e0f413b141ec477b5937571dcbcc3243449cf5247176912a39b"
+    }
+   ]
   }
  ],
- "signature": "2e2465a7000c0b7c89fe42e7818b6ac0e3fce6ac8fa0d3ba84180d1e30914614ee73874786cc03ce145c4ab7dc6617cb46fc0b242179ed8d8b46a9eee1caf900"
+ "signature": "ff51d3a254e29b64a31cf76c235cf7756295fbc1ab1ed377f44a2cae530fa8754e4e29bfbcdba17a4e4416c5184ac83f8e69328f07ee80d28ccb465a4c1b470c"
 }

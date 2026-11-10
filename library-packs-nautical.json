@@ -1,0 +1,20 @@
+{
+ "packs": [
+  {
+   "id": "nautical",
+   "label": "Nautical: medicine, seamanship, navigation rules, weather, boat systems and every country and island (0.7 GB, 140,846 articles)",
+   "gb": 0.7,
+   "articles": 140846,
+   "version": "2026-11-10",
+   "install_bytes": 2218727051,
+   "parts": [
+    {
+     "url": "https://github.com/Radialholdings/vanillaprep/releases/download/library-nautical-2026-11-10/library-nautical.zip.000",
+     "bytes": 655401968,
+     "sha256": "655d9e69212456cbe983174cccc066a1ead9e658665de93b19043fefdf6e2fcb"
+    }
+   ]
+  }
+ ],
+ "signature": "0a93f626f7bd61e319b15c2311bd411f7cbe4372d241128758b90a9f6c71d1ef297370c842b8e43b5353e1176a9f90b14050aeaa4d067faeab679472fb744f03"
+}
